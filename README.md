@@ -1,6 +1,9 @@
 # Pomegranate-Qualitative-Biochemical-Traits-Reclaimed-Water
 **Title:** Qualitative and biochemical characteristics of pomegranate fruit grown using reclaimed water and low input fertigation treatments at harvest and during storage. 
 
+![Picture6](https://github.com/user-attachments/assets/97268391-7db5-42b7-bb66-92d8836baef2)
+
+
 **Summary:**  
 In recent years, severe climate change leading to by water scarcity reduced water quality has increased the need for effective irrigation strategies for agricultural production. Among these, the reuse of reclaimed water represents a non-expensive and reliable solution. The effect of conventional or reclaimed water, applying convention or smart fertigation system, were investigated during two irrigation seasons on yield, qualitative and biochemical traits of pomegranates fruit (cv Wonderful One) at harvest, and after storage at 7 °C. The results of this study showed that using reclaimed waters with different fertigation systems did not affect the pH values, total soluble solids, and titratable acidity on pomegranates fruit showing slight decrease changes only during postharvest storage. On the other hand, the respiration rate was not affected by water quality. Furthermore, the antioxidant activity was also preserved during storage in pomegranates fruit from plants irrigated with reclaimed water by applying conventional or smart fertigation. The analysis also identified 52 compounds by UHPLC-MSn and HPLC-UV-Vis analyses. A slight decrease (about 17 %) at harvest and during storage in polyphenols content was shown in fruit grown using reclaimed water. The study demonstrates that using reclaimed water is a sustainable and effective way to limit the use of conventional water for irrigating pomegranate crops without significant reduction in yield, or in qualitative and nutritional values of the fruit at harvest and during storage.
 
